@@ -1,0 +1,27 @@
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\bin\Debug\1stpage.exe.config
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\bin\Debug\1stpage.exe
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\bin\Debug\1stpage.pdb
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\1stpage.csprojResolveAssemblyReference.cache
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\_1stpage.Form1.resources
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\_1stpage.Properties.Resources.resources
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\1stpage.csproj.GenerateResource.Cache
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\1stpage.exe
+c:\users\lenovo_pc\documents\visual studio 2017\Projects\1stpage\1stpage\obj\Debug\1stpage.pdb
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\1stpage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Form1.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Properties.Resources.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\1stpage.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Login.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\bin\Debug\HPH.exe.config
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\bin\Debug\HPH.exe
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\bin\Debug\HPH.pdb
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Startup.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\HPH.exe
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\HPH.pdb
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Account_normal_page.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Hostel_select.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Registration.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\bin\Debug\user_info.mdf
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\bin\Debug\user_info_log.ldf
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Admin_panel.resources
+C:\Users\User\Desktop\c# documents\1stpage\1stpage\obj\Debug\_1stpage.Control.resources

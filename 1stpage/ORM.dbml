@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="user_info" Class="ORMDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\user_info.mdf;Integrated Security=True" SettingsObjectName="_1stpage.Properties.Settings" SettingsPropertyName="user_infoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[Table]" Member="User_infos">
+    <Type Name="User_info">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[First name]" Member="First_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Last name]" Member="Last_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[E-mail]" Member="E_mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Account_type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Hostel_find" Member="Hostel_finds">
+    <Type Name="Hostel_find">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="H_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="A_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cost_info" Member="Cost_infos">
+    <Type Name="Cost_info">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CostA" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CostB" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CostC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Verification_table" Member="Verification_tables">
+    <Type Name="Verification_table">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Login_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Hostel_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Verifi_status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
